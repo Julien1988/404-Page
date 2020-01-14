@@ -1,0 +1,32 @@
+.section__top {
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+.section__main__image {
+  background-image: url(images/maxresdefault.jpg);
+  min-width: 10em;
+  height: 40em;
+}
+
+.section__bot {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.section__bot__container {
+  text-align: center;
+}
+
+a {
+  margin: 2em;
+  padding: 1em;
+  background-color: orange;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: orange;
+}
